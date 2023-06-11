@@ -69,7 +69,7 @@ rem ======================================================================
 rem Start Python backend
 rem ======================================================================
 cd backend
-set CORPUS=english_corpus.csv
+set CORPUS=korean_corpus.csv
 "%python3_dir%\scripts\pip.exe" install -r requirements.txt
 start "Python Backend" "%python3_dir%\python.exe" run.py
 cd ..

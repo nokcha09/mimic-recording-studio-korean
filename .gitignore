@@ -31,3 +31,8 @@ tmp/
 logs
 __pycache__
 build/
+
+/ffmpeg
+ffmpeg.zip
+python-3.7.1.exe
+yarn.msi
